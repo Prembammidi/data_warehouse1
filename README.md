@@ -12,6 +12,8 @@ The **Gold Layer** consists of well-structured dimensional tables that support a
 2. **gold.dim_products** – Contains product-related information derived from multiple systems.
 3. **gold.fact_sales** – A fact table capturing transactional sales data for analytical reporting.
 
+![image](https://github.com/user-attachments/assets/55ad3ce1-d779-47f2-aed2-8123d290d37d)
+
 These tables follow a **star schema**, enabling optimized performance for business intelligence and reporting.
 
 ## 🏗️ Data Architecture
